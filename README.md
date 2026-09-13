@@ -6,8 +6,8 @@
 
 ![Version](https://img.shields.io/badge/version-2.0.0-blue)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
-![License](https://img.shields.io/github/license/syntaxerror789/currency)
-![Stars](https://img.shields.io/github/stars/syntaxerror789/currency?style=social)
+![License](https://img.shields.io/github/license/YassirEssayeb/currency)
+![Stars](https://img.shields.io/github/stars/YassirEssayeb/currency?style=social)
 ![Built with](https://img.shields.io/badge/built%20with-Vanilla%20JS-ffdd54)
 
 </div>
@@ -33,7 +33,7 @@
 Clone the repository and open `index.html` in your browser — no build step required.
 
 ```bash
-git clone https://github.com/syntaxerror789/currency.git
+git clone https://github.com/YassirEssayeb/currency.git
 cd currency
 ```
 
@@ -88,7 +88,7 @@ GET https://api.frankfurter.app/YYYY-MM-DD..YYYY-MM-DD?from=EUR
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome! Feel free to check the [issues page](https://github.com/syntaxerror789/currency/issues).
+Contributions, issues and feature requests are welcome! Feel free to check the [issues page](https://github.com/YassirEssayeb/currency/issues).
 
 ## 📄 License
 
@@ -97,5 +97,5 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/syntaxerror789">syntaxerror789</a>
+  Made with ❤️ by <a href="https://github.com/YassirEssayeb">YassirEssayeb</a>
 </div>
