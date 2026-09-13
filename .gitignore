@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Node / build artifacts (if any future tooling is added)
+node_modules/
+dist/
+build/
+*.min.js
+
+# GitHub Pages / CI artifacts
+.github/actions/_temp/
